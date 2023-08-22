@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 #Imported fbx etc files
 Content/Import/*
+/RawContent/*
